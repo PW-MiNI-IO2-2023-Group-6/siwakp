@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD warsztat", "TDD warsztat\TDD warsztat.csproj", "{0E414635-63F9-4EE1-9A83-EEE725EFFF99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{FE43BF00-176A-4BFF-9D9A-F1CFCA0ADB8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E414635-63F9-4EE1-9A83-EEE725EFFF99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E414635-63F9-4EE1-9A83-EEE725EFFF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E414635-63F9-4EE1-9A83-EEE725EFFF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E414635-63F9-4EE1-9A83-EEE725EFFF99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE43BF00-176A-4BFF-9D9A-F1CFCA0ADB8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE43BF00-176A-4BFF-9D9A-F1CFCA0ADB8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE43BF00-176A-4BFF-9D9A-F1CFCA0ADB8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE43BF00-176A-4BFF-9D9A-F1CFCA0ADB8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39989720-D20F-4FBD-8E77-7DD6DB7E1A25}
+	EndGlobalSection
+EndGlobal
