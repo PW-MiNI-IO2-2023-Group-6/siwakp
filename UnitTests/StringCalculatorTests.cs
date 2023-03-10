@@ -16,6 +16,7 @@ namespace UnitTests
         [InlineData("0", 0)]
         [InlineData("121", 121)]
         [InlineData("42", 42)]
+        [InlineData("30", 30)]
         public void StringWithNumberReturnsItsValue(string str, int expected)
         {
             int result = StringCalculator.Calculate(str);
